@@ -1,0 +1,28 @@
+body {
+   height: 500px;
+   z-index: 2;
+}
+div {
+    height: auto;
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    float: left;
+    z-index: 1;
+    font-size: small;
+}
+
+h1,
+.satu {
+    text-align: right;
+}
+h1,
+p {
+    padding: 0 20px;
+}
+p {
+    text-align: center;
+    font-weight: 900;
+}
